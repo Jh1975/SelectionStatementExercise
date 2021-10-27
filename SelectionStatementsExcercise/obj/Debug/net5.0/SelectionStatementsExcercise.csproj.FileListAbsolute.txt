@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\SelectionStatementsExcercise.exe
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\SelectionStatementsExcercise.deps.json
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\SelectionStatementsExcercise.runtimeconfig.json
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\SelectionStatementsExcercise.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\SelectionStatementsExcercise.dll
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\ref\SelectionStatementsExcercise.dll
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\bin\Debug\net5.0\SelectionStatementsExcercise.pdb
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.dll
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\ref\SelectionStatementsExcercise.dll
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.pdb
+C:\Users\User\Desktop\repos\SelectionStatementsExcercise\SelectionStatementsExcercise\obj\Debug\net5.0\SelectionStatementsExcercise.genruntimeconfig.cache
